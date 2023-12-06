@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Amine ! A passionate full stack web developer from TUNISIA</h1>
-<h3 align="center">I'm not just a web developer; I'm a fervent creator, weaving pixels and code into immersive digital experiences. From the elegant dance of front-end design to the robust symphony of back-end functionality, I'm addicted to the process of bringing ideas to life.</h3>
+<h3 align="center">Greetings, digital enthusiasts! I'ma dedicated web developer with a keen eye for crafting immersive digital experiences. From front-end finesse to robust back-end functionality, I thrive on bringing ideas to life through elegant and efficient code. Let's collaborate and elevate your digital presence to new heights</h3>
 
 - 🌱 I’m currently learning **Cybersecurity !**
 
