@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed amine souhail A passionate full stack web developer from TUNISIA</h1>
 <h3 align="center">I'm not just a web developer; I'm a fervent creator, weaving pixels and code into immersive digital experiences. From the elegant dance of front-end design to the robust symphony of back-end functionality, I'm addicted to the process of bringing ideas to life.</h3>
 
-- 🌱 I’m currently learning **Cybersecurity !**
+- 🌱 I’m currently learning **NEXT.JS !**
 
 - 👨‍💻 All of my projects are available at [under construction](under construction)
 
