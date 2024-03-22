@@ -49,9 +49,15 @@ Here's a glimpse into my toolbox:
 
 ###
 
-<br clear="both">
+<!-- Snake animation section -->
+<details>
+  <summary>:zap: Click to see the Snake animation</summary>
+  <br>
+  <object type="image/svg+xml" data="https://raw.githubusercontent.com/Aminsouhail/yourrepository/master/dist/snake.svg" width="100%" height="200px"> Your browser does not support SVG </object>
+</details>
+<!-- End of Snake animation section -->
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/Aminsouhail/yourrepository/master/dist/snake.svg" width="100%" height="200px"> Your browser does not support SVG </object>
+<!-- Paste the following code snippet into your README.md file -->
+
 
 ###
