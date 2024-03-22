@@ -52,6 +52,6 @@ Here's a glimpse into my toolbox:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/yourusername/yourrepository/master/dist/snake.svg" width="100%" height="200px"> Your browser does not support SVG </object>
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/Aminsouhail/yourrepository/master/dist/snake.svg" width="100%" height="200px"> Your browser does not support SVG </object>
 
 ###
